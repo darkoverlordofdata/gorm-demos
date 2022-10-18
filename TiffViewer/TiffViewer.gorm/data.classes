@@ -1,0 +1,19 @@
+{
+    "## Comment" = "Do NOT change this file, Gorm maintains it";
+    AppController = {
+	Actions = (
+	    "loadImage:"
+	);
+	Outlets = (
+	    imageView,
+	    window
+	);
+	Super = NSObject;
+    };
+    FirstResponder = {
+	Actions = (
+	    "loadImage:"
+	);
+	Super = NSObject;
+    };
+}
